@@ -3,3 +3,6 @@ builder = "node"
 
 [deploy]
 startCommand = "node index.js"
+
+[languages.node]
+version = "18"
