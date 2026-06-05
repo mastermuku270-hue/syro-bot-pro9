@@ -1,13 +1,13 @@
 {
-  "name": "syro-bot-pro",
+  "name": "syro-bot-pro9",
   "version": "1.0.0",
+  "description": "Node.js Bot for Railway",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.0",
-    "pino": "^9.0.0"
+    
   },
   "engines": {
     "node": "18.x"
